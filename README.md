@@ -8,7 +8,7 @@
  * CSS3
 
  # GitHub Page
- Live version: https://abdusaid10.github.io/old-apple-com-clone/.
+ Live version: https://abdusaid10.github.io/old-apple-page-clone/
 
  # Author
  * Abdusaid https://github.com/Abdusaid10
